@@ -17,7 +17,7 @@ If you haven't already, you will need to install the following packages:
 ### Import Libraries
 
 1.  Create a file called `app.py`
-2.  Create a file called `index.csv
+2.  Create a file called `index.csv`
 3.  At the very top of `app.py` import your libraries:
 
 ```
